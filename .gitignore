@@ -1,0 +1,8 @@
+﻿Assets/Prefabs/Character.prefab.meta
+*.meta
+Library
+Temp
+*.csproj
+*.sln
+*.log
+.idea
